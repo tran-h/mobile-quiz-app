@@ -1,0 +1,76 @@
+<resources>
+    <!-- Question strings. -->
+    <string name="app_name">Quiz App</string>
+    <string name="q1">Question 1. What highly addictive puzzle game designed by a Russian programmer features Russian buildings, dancers and music?</string>
+    <string name="q2">Question 2. What was the first arcade game manufactured by Atari?</string>
+    <string name="q3">Question 3. Before becoming a plumber in the 1983 game Mario Bros., Mario had a different profession. What was it?</string>
+    <string name="q4">Question 4. Which two of the following characters are one of the most, if not, the most iconic duo in video game history? (Choose two)</string>
+    <string name="q5">Question 5. What was Pac Man\'s design inspired by?</string>
+    <string name="q6">Question 6. This violent game was censored on the Super Nintendo, but a (false) myth claimed that the blood could be enabled with the right code.</string>
+    <string name="q7">Question 7. This Pokemon was the subject of many myths and legends and was supposed to be unobtainable - but through a game glitch, players were able to acquire it!</string>
+    <string name="q8">Question 8. Which video game character is shown above?</string>
+    <string name="q9">Question 9. Which video game character is shown above?</string>
+    <string name="q10">Question 10. People assume video games are mostly played by kids, but the age of the average gamer is higher than you might expect. What is it?</string>
+
+    <!-- Answer strings. -->
+    <string name="q1a1">Puzzled</string>
+    <string name="q1a2">Tetris</string>
+    <string name="q1a3">The Russian Front</string>
+    <string name="q1a4">Boulder Dash</string>
+
+    <string name="q2a1">Asteroids</string>
+    <string name="q2a2">Yar\'s Revenge</string>
+    <string name="q2a3">Pong</string>
+    <string name="q2a4">Adventure</string>
+
+    <string name="q3a1">Carpenter</string>
+    <string name="q3a2">Plumber</string>
+    <string name="q3a3">Pizza Maker</string>
+    <string name="q3a4">Zookeeper</string>
+
+    <string name="q4a1">Mario</string>
+    <string name="q4a2">Bowser</string>
+    <string name="q4a3">Toad</string>
+    <string name="q4a4">Luigi</string>
+
+    <string name="q5a1">A slice of pizza</string>
+    <string name="q5a2">A chewed up ball</string>
+    <string name="q5a3">A bent coin</string>
+    <string name="q5a4">A fish</string>
+
+    <string name="q6a1">Mortal Kombat</string>
+    <string name="q6a2">Killer Instinct</string>
+    <string name="q6a3">Street Fighter 2</string>
+    <string name="q6a4">King of Fighters</string>
+
+    <string name="q7a1">Charizard</string>
+    <string name="q7a2">Pikachu</string>
+    <string name="q7a3">Mew</string>
+    <string name="q7a4">Deoxys</string>
+
+    <string name="q8a1">Zelda</string>
+    <string name="q8a2">Link</string>
+    <string name="q8a3">Sheik</string>
+    <string name="q8a4">Tetra</string>
+
+    <string name="q9a1">Knuckles</string>
+    <string name="q9a2">Shadow</string>
+    <string name="q9a3">Tails</string>
+    <string name="q9a4">Sonic</string>
+
+    <!-- Hint text for question 10's text box. -->
+    <string name="question10_hint_text">Answer</string>
+
+    <!-- Submit answers button. -->
+    <string name="submit">SUBMIT</string>
+
+    <!-- Show answers button. -->
+    <string name="answers">SHOW ANSWERS</string>
+
+    <!-- Message displayed if user fails test. -->
+    <string name="failedTestMsg">You failed the test with a score of </string>
+
+    <!-- Message displayed if user passes test. -->
+    <string name="passedTestMsg">You passed the test with a score of </string>
+
+</resources>
